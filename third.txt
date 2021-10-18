@@ -1,3 +1,4 @@
 I summary all the task in this slide
 I need to merge some branch
 I stuck with this task
+yayy finally i can do this task. I create a new branch which is the third one. after that write some stuffs in this notepad to test the commit branch in gitCMD. 
